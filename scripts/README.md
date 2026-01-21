@@ -1,8 +1,9 @@
 ## Agining Shipments and Inventory shrinkage
 ---
 
-#### To replicate the high-precision environment of an Equinix data center, I implemented a SQL architecture that separates raw ingestion from business-ready analytics.
+To replicate the high-precision environment of an Equinix data center, I implemented a SQL architecture that separates raw ingestion from business-ready analytics.
 These views automate the identification of Aging Shipments and Inventory Shrinkage, allowing the Logistics Lead to pivot from manual data entry to proactive problem-solving and independent action.
+
 ---
 
 ```sql
