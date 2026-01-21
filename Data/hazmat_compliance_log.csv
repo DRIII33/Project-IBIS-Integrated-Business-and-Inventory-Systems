@@ -1,0 +1,7 @@
+audit_id,sku,vendor_partner,inspection_date,safety_status,inspector_notes
+AUD-9824,SKU-3286,SafetyFirst Inc.,2025-10-16 23:18:24.062432,COMPLIANT,All labels legible and storage temperature within range.
+AUD-4797,SKU-3286,SafetyFirst Inc.,2025-10-31 23:18:24.062432,COMPLIANT,All labels legible and storage temperature within range.
+AUD-9690,SKU-8359,CleanHarbors,2025-10-05 23:18:24.062432,COMPLIANT,All labels legible and storage temperature within range.
+AUD-4445,SKU-8359,Global-Spec Logistics,2025-12-17 23:18:24.062432,COMPLIANT,All labels legible and storage temperature within range.
+AUD-4144,SKU-7924,CleanHarbors,2025-12-31 23:18:24.062432,COMPLIANT,All labels legible and storage temperature within range.
+AUD-3574,SKU-3045,CleanHarbors,2025-11-27 23:18:24.062432,NON-COMPLIANT,All labels legible and storage temperature within range.
